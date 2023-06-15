@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a166e49a-28b8-4f07-8bef-e3113a421320" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ass18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssFourten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssFourten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/AirCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Ass15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Ass16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Ass17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Ass24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Ass25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Ass26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Mp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Mp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Mp3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Mp3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TelevisionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TelevisionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/BikeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QvDDcPRZyE7pEL2hwR5umi5isq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "/home/user/Documents/ideaProjects/javaTest/test/tdd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TelevisionTest">
+    <configuration name="TelevisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.canDecreaseChannel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="canDecreaseChannel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.canDecreaseVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="canDecreaseVolume" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.canIncreaseChannel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="canIncreaseChannel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.canTurnOffTelevision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="canTurnOffTelevision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TelevisionTest" />
+        <item itemvalue="JUnit.TelevisionTest.canTurnOffTelevision" />
+        <item itemvalue="JUnit.TelevisionTest.canDecreaseChannel" />
+        <item itemvalue="JUnit.TelevisionTest.canIncreaseChannel" />
+        <item itemvalue="JUnit.TelevisionTest.canDecreaseVolume" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a166e49a-28b8-4f07-8bef-e3113a421320" name="Changes" comment="" />
+      <created>1686225043538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686225043538</updated>
+      <workItem from="1686225045178" duration="11662000" />
+      <workItem from="1686244145482" duration="7981000" />
+      <workItem from="1686257770940" duration="12520000" />
+      <workItem from="1686294663515" duration="10586000" />
+      <workItem from="1686370299021" duration="8167000" />
+      <workItem from="1686387282468" duration="12309000" />
+      <workItem from="1686454052470" duration="4504000" />
+      <workItem from="1686488386977" duration="1359000" />
+      <workItem from="1686547399794" duration="6990000" />
+      <workItem from="1686579656275" duration="6521000" />
+      <workItem from="1686640552299" duration="3678000" />
+      <workItem from="1686683053369" duration="8653000" />
+      <workItem from="1686722254073" duration="6011000" />
+      <workItem from="1686728448349" duration="106000" />
+      <workItem from="1686766815924" duration="971000" />
+      <workItem from="1686768244255" duration="2475000" />
+      <workItem from="1686770850769" duration="10301000" />
+      <workItem from="1686814221758" duration="1302000" />
+      <workItem from="1686860844497" duration="2551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/Mp3Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/TelevisionTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
