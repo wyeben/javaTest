@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a166e49a-28b8-4f07-8bef-e3113a421320" name="Changes" comment="">
+    <list default="true" id="a166e49a-28b8-4f07-8bef-e3113a421320" name="Changes" comment="javaTest">
+      <change afterPath="$PROJECT_DIR$/src/tdd/AverageScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/AverageScoreCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/WorkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ass18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ass18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssFourten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssFourten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/AirCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Ass15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Ass16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Ass17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Ass24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Ass25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Ass26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Ass26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Mp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Mp3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Mp3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Mp3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TelevisionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TelevisionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +30,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -58,74 +50,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "/home/user/Documents/ideaProjects/javaTest/test/tdd",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/user/Documents/ideaProjects/javaTest/test/tdd&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TelevisionTest">
-    <configuration name="TelevisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AverageScoreCalculatorTest.canDisplayAverage">
+    <configuration name="AverageScoreCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.AverageScoreCalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelevisionTest.canDecreaseChannel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AverageScoreCalculatorTest.canCalculateAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
-      <option name="METHOD_NAME" value="canDecreaseChannel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.AverageScoreCalculatorTest" />
+      <option name="METHOD_NAME" value="canCalculateAverage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelevisionTest.canDecreaseVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AverageScoreCalculatorTest.canCollectScoreFromTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
-      <option name="METHOD_NAME" value="canDecreaseVolume" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.AverageScoreCalculatorTest" />
+      <option name="METHOD_NAME" value="canCollectScoreFromTeacher" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelevisionTest.canIncreaseChannel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AverageScoreCalculatorTest.canDisplayAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
-      <option name="METHOD_NAME" value="canIncreaseChannel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.AverageScoreCalculatorTest" />
+      <option name="METHOD_NAME" value="canDisplayAverage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelevisionTest.canTurnOffTelevision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AverageScoreCalculatorTest.testThatAverageScoreCalculatorExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
-      <option name="METHOD_NAME" value="canTurnOffTelevision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.AverageScoreCalculatorTest" />
+      <option name="METHOD_NAME" value="testThatAverageScoreCalculatorExist" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TelevisionTest" />
-        <item itemvalue="JUnit.TelevisionTest.canTurnOffTelevision" />
-        <item itemvalue="JUnit.TelevisionTest.canDecreaseChannel" />
-        <item itemvalue="JUnit.TelevisionTest.canIncreaseChannel" />
-        <item itemvalue="JUnit.TelevisionTest.canDecreaseVolume" />
+        <item itemvalue="JUnit.AverageScoreCalculatorTest.canDisplayAverage" />
+        <item itemvalue="JUnit.AverageScoreCalculatorTest.canCalculateAverage" />
+        <item itemvalue="JUnit.AverageScoreCalculatorTest" />
+        <item itemvalue="JUnit.AverageScoreCalculatorTest.canCollectScoreFromTeacher" />
+        <item itemvalue="JUnit.AverageScoreCalculatorTest.testThatAverageScoreCalculatorExist" />
       </list>
     </recent_temporary>
   </component>
@@ -167,8 +189,22 @@
       <workItem from="1686768244255" duration="2475000" />
       <workItem from="1686770850769" duration="10301000" />
       <workItem from="1686814221758" duration="1302000" />
-      <workItem from="1686860844497" duration="2551000" />
+      <workItem from="1686860844497" duration="2940000" />
+      <workItem from="1686864252737" duration="529000" />
+      <workItem from="1686899396413" duration="11930000" />
+      <workItem from="1687026867113" duration="269000" />
+      <workItem from="1687080084343" duration="6724000" />
+      <workItem from="1687090141533" duration="3579000" />
+      <workItem from="1687164185347" duration="3296000" />
     </task>
+    <task id="LOCAL-00001" summary="javaTest">
+      <created>1686864037772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686864037772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +220,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
