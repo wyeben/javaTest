@@ -1,11 +1,11 @@
 package tdd;
 
-public class Account {
+public class BankAccount {
 
     private int balance;
     private final String PIN;
 
-    public Account(String pin) {
+    public BankAccount(String pin) {
         this.PIN = pin;
     }
 
