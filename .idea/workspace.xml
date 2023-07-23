@@ -5,65 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a166e49a-28b8-4f07-8bef-e3113a421320" name="Changes" comment="javaTest">
-      <change afterPath="$PROJECT_DIR$/src/AsteriskImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ArrayImage1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ArrayImage2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ArrayImage3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Asteris2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Asterisks20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/AverageOf10Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/AverageOfEvenScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/AverageOfValidScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/CalculateE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/CalculateTotalOfAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ClassExercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/CompareCosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ConcatenateTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ConvertCelsiusToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/DiamondAsterisk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/DivisibleBy5And6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/EchoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ElementInAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ElementOnEvenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ElementOnOddPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/LargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Loop1To10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/MethodMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/MethodSquareNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Number1To10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Number8And10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/OddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/PositiveAndNegativeCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SevenSegmentDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumAndAverageOf10Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumAverageAndBreakIfNumberIs30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumOf10EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumOf10Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumOfEvenScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumOfNumbersInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumOfValidScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumTheList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/SumUp10ValidNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Vclock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/asteris3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/FibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/MethodMultiplyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/MethodSquareNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/ReverseListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/SumTheListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/VclockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/CombineTwoListAlternatingly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/DecryptNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/EncryptNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Good1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/MyersBriggsPersonalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/NumberAndReturnList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/BankAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/WorkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/WorkTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,9 +75,9 @@
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayImage3">
-    <configuration name="ArrayImage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.ArrayImage1" />
+  <component name="RunManager" selected="Application.MyersBriggsPersonalityTest">
+    <configuration name="DecryptNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.DecryptNumber" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayImage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.ArrayImage2" />
+    <configuration name="Good" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.Good" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayImage3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.ArrayImage3" />
+    <configuration name="Good1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.Good1" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +115,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Asteris2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.Asteris2" />
+    <configuration name="MyersBriggsPersonalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.MyersBriggsPersonalityTest" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.SevenSegmentDisplay" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -194,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayImage3" />
+        <item itemvalue="Application.MyersBriggsPersonalityTest" />
+        <item itemvalue="Application.Good1" />
+        <item itemvalue="Application.Good" />
         <item itemvalue="Application.SevenSegmentDisplay" />
-        <item itemvalue="Application.ArrayImage1" />
-        <item itemvalue="Application.ArrayImage2" />
-        <item itemvalue="Application.Asteris2" />
+        <item itemvalue="Application.DecryptNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +227,9 @@
       <workItem from="1689576563189" duration="25412000" />
       <workItem from="1689652715200" duration="18637000" />
       <workItem from="1689751995450" duration="31278000" />
-      <workItem from="1689837545211" duration="4406000" />
+      <workItem from="1689837545211" duration="7391000" />
+      <workItem from="1689926536729" duration="23644000" />
+      <workItem from="1690036980010" duration="9193000" />
     </task>
     <task id="LOCAL-00001" summary="javaTest">
       <created>1686864037772</created>
@@ -281,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687204410863</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="javaTest">
+      <option name="closed" value="true" />
+      <created>1689856525571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689856525571</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
