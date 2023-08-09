@@ -5,13 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a166e49a-28b8-4f07-8bef-e3113a421320" name="Changes" comment="javaTest">
-      <change afterPath="$PROJECT_DIR$/src/tdd/CheckSpecialCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/CollectInputAndDisplayArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/CreditCardValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/InputAndDisplaySumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/CheckNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/CheckTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/ConsoleLoadingAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/BillingInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/CheckoutSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/SemicolonStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Estore/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Good2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Good3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/LargerRotatingCircleAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/MethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/NumbersPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/ProgressBarAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/RotatingCircleAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/SpinnerAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/StudentGradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/TypeOfProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/NumbersPositionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/CreditCardValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/CreditCardValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Good.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Good1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +96,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -75,9 +105,9 @@
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreditCardValidator">
-    <configuration name="CheckSpecialCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.CheckSpecialCharacter" />
+  <component name="RunManager" selected="Application.CheckTime">
+    <configuration name="CheckTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.CheckTime" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectInputAndDisplayArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.CollectInputAndDisplayArray" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.Person" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCardValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.CreditCardValidator" />
+    <configuration name="RotatingCircleAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.RotatingCircleAnimation" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputAndDisplaySumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.InputAndDisplaySumArray" />
+    <configuration name="SemicolonStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.Estore.SemicolonStore" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="tdd.Estore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,21 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.Main" />
-      <module name="javaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.Main" />
+    <configuration name="StudentGradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.StudentGradeCalculator" />
       <module name="javaTest" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreditCardValidator" />
-        <item itemvalue="Application.InputAndDisplaySumArray" />
-        <item itemvalue="Application.CollectInputAndDisplayArray" />
-        <item itemvalue="Application.CheckSpecialCharacter" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CheckTime" />
+        <item itemvalue="Application.RotatingCircleAnimation" />
+        <item itemvalue="Application.SemicolonStore" />
+        <item itemvalue="Application.StudentGradeCalculator" />
+        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +249,20 @@
       <workItem from="1690036980010" duration="9193000" />
       <workItem from="1690087416835" duration="23141000" />
       <workItem from="1690276076021" duration="1697000" />
-      <workItem from="1690349767463" duration="577000" />
+      <workItem from="1690349767463" duration="2205000" />
+      <workItem from="1690526698264" duration="2035000" />
+      <workItem from="1690604167868" duration="27177000" />
+      <workItem from="1690696349136" duration="17561000" />
+      <workItem from="1690788297967" duration="6260000" />
+      <workItem from="1690863096773" duration="12572000" />
+      <workItem from="1690952209376" duration="12774000" />
+      <workItem from="1691043679999" duration="19354000" />
+      <workItem from="1691131121367" duration="28947000" />
+      <workItem from="1691308423999" duration="6762000" />
+      <workItem from="1691379682961" duration="928000" />
+      <workItem from="1691403083144" duration="4052000" />
+      <workItem from="1691477498729" duration="1532000" />
+      <workItem from="1691562789803" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="javaTest">
       <created>1686864037772</created>
@@ -264,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690088864374</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="javaTest">
+      <option name="closed" value="true" />
+      <created>1690356308771</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690356308771</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,5 +338,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

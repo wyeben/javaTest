@@ -15,7 +15,7 @@ public class CreditCardValidator {
         } else if (cardNumber.matches("^6(?:011|5[0-9]{2})[0-9]{12}$")) {
             return "Discover";
         }
-         else {
+         else { 
             return "Unknown";
         }
     }
