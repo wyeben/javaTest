@@ -2,8 +2,9 @@ package tdd;
 import java.util.Arrays;
 import java.util.List;
     enum GeopoliticalZone {
+        
         NORTH_WEST(Arrays.asList("Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Sokoto", "Zamfara")),
-        NORTH_EAST(Arrays.asList("Adamawa", "Bauchi", "Borno", "Gombe", "Taraba", "Yobe")),
+        NORTH_EAST(Arrays.asList("Adamawa", "Bauchi", "Borno", "Bauchi", "Taraba", "Yobe")),
         NORTH_CENTRAL(Arrays.asList("Benue", "Kogi", "Kwara", "Nasarawa", "Niger", "Plateau", "Federal Capital Territory")),
         SOUTH_SOUTH(Arrays.asList("Akwa Ibom", "Bayelsa", "Cross River", "Delta", "Edo", "Rivers")),
         SOUTH_WEST(Arrays.asList("Ekiti", "Lagos", "Ogun", "Ondo", "Osun", "Oyo"));
