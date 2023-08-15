@@ -1,4 +1,4 @@
-package tdd.Estore;
+package tdd.estore;
 
 import java.util.List;
 

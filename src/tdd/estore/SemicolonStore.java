@@ -1,4 +1,4 @@
-package tdd.Estore;
+package tdd.estore;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
-import static tdd.Estore.CheckoutSystem.VAT_RATE;
+import static tdd.estore.CheckoutSystem.VAT_RATE;
 
 public class SemicolonStore {
      public static void main(String[] args) {

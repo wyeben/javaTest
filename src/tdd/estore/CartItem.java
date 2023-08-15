@@ -1,4 +1,4 @@
-package tdd.Estore;
+package tdd.estore;
 
 public class CartItem {
     private final int quantity;

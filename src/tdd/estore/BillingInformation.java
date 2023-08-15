@@ -1,4 +1,4 @@
-package tdd.Estore;
+package tdd.estore;
 
 public class BillingInformation {
     private String receiverPhone;
